@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+
+Sitemap: https://www.example-kurieito.com/sitemap.xml
+
+# Crawl delay (optional, in seconds)
+Crawl-delay: 1
